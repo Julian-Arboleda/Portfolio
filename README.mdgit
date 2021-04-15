@@ -1,0 +1,2 @@
+"# Portfolio"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Julian-Arboleda/Portfolio.gitgit push -u origin main
+"# Portfolio"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Julian-Arboleda/Portfolio.gitgit push -u origin main
